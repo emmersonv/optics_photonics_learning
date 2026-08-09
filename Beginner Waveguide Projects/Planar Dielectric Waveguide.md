@@ -105,3 +105,4 @@ This is for the m = 0 mode which matches the symmetric shape predicted in the eq
 The phase velocity/group velocity can be found using the dispersion relation $(11)$. Another transcendental equation will be obtained by taking the derivative of this equation so I'll just plot $\beta$ against $\omega$ and use that. ***(use matlab instead itll be so much easier to plot)***
 
 ***Once you obtain that plot compare it against what Lumerical is spitting out:***
+![[Pasted image 20260808230011.png]]
