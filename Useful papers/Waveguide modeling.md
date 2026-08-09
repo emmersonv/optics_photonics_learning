@@ -1,1 +1,1 @@
-This paper derives the m![[Modelling_Techniques_for_Rectangular_Dielectric_Wa.pdf]]
+This paper derives the modal fields for dielectric waveguides. It discusses some things that weren't described very well in Saleh, ![[Modelling_Techniques_for_Rectangular_Dielectric_Wa.pdf]]
