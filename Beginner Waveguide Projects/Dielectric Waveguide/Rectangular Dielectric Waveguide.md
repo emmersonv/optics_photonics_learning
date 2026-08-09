@@ -1,0 +1,1 @@
+**Effective Index Method**
