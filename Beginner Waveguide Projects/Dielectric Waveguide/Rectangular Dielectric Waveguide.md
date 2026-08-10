@@ -1,5 +1,6 @@
 **Effective Index Method**
 The effective index method will collapse a 2D geometry into two 1D planar geometries. Take a rectangular $Si$ waveguide surrounded by $SiO_2$. The waveguide can be split into two sections, a y-independent section and a x-independent section. The TE/TM mode will be defined for one of the direction and the effective index will be found. This index will be used to solve the next section and that effective index will be the parameter for the entire waveguide.
+*Add photos to make it a bit more clear*
 
 **Rectangular Waveguide Analysis**
-Take the results obtained from the Planar Dielectric Waveguide and 
+Take the effective obtained from the Planar Dielectric Waveguide and treat it as the core for the next section. The cladding is still $SiO_2$
