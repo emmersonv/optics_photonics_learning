@@ -7,7 +7,7 @@ Take the effective obtained from the Planar Dielectric Waveguide and treat it as
 
 Starting with the Helmholtz equation for the magnetic field $$\nabla^2\vec H +k^2 \vec H = 0 \qquad...(1)$$
 The field should propagate down the waveguide with some field profile in the $y$ direction **(add a photo)**, so the solution is assumed to be $$\vec H = H_x(y)e^{j(\omega t - \beta z)} \qquad...(2)$$
-Plugging $(2)$ into $(1)$ will yield the following result: $$\frac{dH_x}{}$$
+Plugging $(2)$ into $(1)$ will yield the following result: $$\frac{d^2H_x(y)}{dy^2}+\left(k^2-\beta^2\right)$$
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
