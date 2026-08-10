@@ -1,2 +1,2 @@
 **Effective Index Method**
-The effective index method will collapse a 2D geometry into two 1D planar geometries. Take a rectangular $Si$ waveguide surrounded by $SiO_2$. The waveguide can be split into two sections, 
+The effective index method will collapse a 2D geometry into two 1D planar geometries. Take a rectangular $Si$ waveguide surrounded by $SiO_2$. The waveguide can be split into two sections, a y-independent section and a x-independent section. The TE/TM mode will be defined for one of the direction and the effective index will be found. Then i
