@@ -3,4 +3,4 @@ The effective index method will collapse a 2D geometry into two 1D planar geomet
 *Add photos to make it a bit more clear*
 
 **Rectangular Waveguide Analysis**
-Take the effective obtained from the Planar Dielectric Waveguide and treat it as the core for the next section where the cladding is still $SiO_2$. This was solved assuming a TE polarization, however since the 
+Take the effective obtained from the Planar Dielectric Waveguide and treat it as the core for the next section where the cladding is still $SiO_2$. This was solved assuming a TE polarization, however since the orientation of the waveguide is flipped for the other section the E-field is now pe
