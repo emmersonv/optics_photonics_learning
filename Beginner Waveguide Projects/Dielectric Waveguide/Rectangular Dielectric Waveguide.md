@@ -11,7 +11,8 @@ Plugging $(2)$ into $(1)$ will yield the following result: $$\frac{d^2H_x(y)}{dy
 Where $k^2 - \beta^2$ can be written as $k_y^2$ $$\frac{d^2H_x(y)}{dy^2}+k_y^2H_x(y)=0 \qquad...(3)$$
 This will yield the same form of solutions as the TE case, however we are interested in the E-field distributions. The electric field is related to the magnetic field by Ampere's Law: $$\nabla \times \vec H = \epsilon\frac{\partial \vec E}{\partial t} = j\omega \epsilon \vec  E \qquad...(4)$$
 Calculating the cross product of the $H$ field results in $$\nabla \times \vec H = \frac{\partial H_x}{\partial z}\hat{y} - \frac{\partial H_x}{\partial y}\hat{z}=-j\beta H_x(y) e^{j(\omega t-\beta z)} \hat{y} - \frac{\partial H_x}{\partial z}e^{j(\omega t - \beta z)}\hat{z} \qquad...(5)$$
-
+Plugging $(5)$ into $(4)$ results in the $E$-fields
+$$\vec E = $$
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
