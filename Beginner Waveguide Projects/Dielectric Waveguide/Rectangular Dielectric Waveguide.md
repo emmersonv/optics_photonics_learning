@@ -9,7 +9,7 @@ Starting with the Helmholtz equation for the magnetic field $$\nabla^2\vec H +k^
 The field should propagate down the waveguide with some field profile in the $y$ direction **(add a photo)**, so the solution is assumed to be $$\vec H = H_x(y)e^{j(\omega t - \beta z)} \qquad...(2)$$
 Plugging $(2)$ into $(1)$ will yield the following result: $$\frac{d^2H_x(y)}{dy^2}+\left(k^2-\beta^2\right)H_x(y)=0$$
 Where $k^2 - \beta^2$ can be written as $k_y^2$ $$\frac{d^2H_x(y)}{dy^2}+k_y^2H_x(y)=0 \qquad...(3)$$
-This will yield the same form of solutions as the TE case, however we are interested in the E-field distributions. The electric field is related to the magnetic field by Ampere's Law: $$$$
+This will yield the same form of solutions as the TE case, however we are interested in the E-field distributions. The electric field is related to the magnetic field by Ampere's Law: $$\nabla \cross$$
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
