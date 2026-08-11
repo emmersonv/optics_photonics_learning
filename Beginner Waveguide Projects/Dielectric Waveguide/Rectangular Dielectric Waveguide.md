@@ -20,8 +20,8 @@ So we the solutions for $H_x$ must be found. Solving $(3)$ will yield the follow
 $$H_x(y) = A\cos\left(k_yy\right)+B\sin\left(k_yy\right)$$
 And for the cladding region: $$H_x(y) = Ce^{-\alpha y} + De^{\alpha y}$$
 Which to no surprise is the same form in as the planar TE profile. Converting these bad boys to E-field through $(7)$ and $(8)$, starting with the $z$ component in the core:
-$$\frac{\partial H_x}{\partial y} = k_y\left[-A \sin(k_yy) + \right]$$
-$$E_z=\frac{j}{\omega \epsilon_{core}}\left[A\cos(k_yy) + B\sin(k_yy)\right]e^{j(\omega t - \beta z)}$$
+$$\frac{\partial H_x}{\partial y} = k_y\left[B \cos(k_yy) -A \sin(k_yy)\right]$$
+$$E_z=\frac{jk_y}{\omega \epsilon_{core}}\left[B\cos(k_yy) - A\sin(k_yy)\right]e^{j(\omega t - \beta z)}$$
 
 
 
