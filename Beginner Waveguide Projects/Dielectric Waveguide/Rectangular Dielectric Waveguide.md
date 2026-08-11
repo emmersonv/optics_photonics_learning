@@ -13,6 +13,7 @@ This will yield the same form of solutions as the TE case, however we are intere
 Calculating the cross product of the $H$ field results in $$\nabla \times \vec H = \frac{\partial H_x}{\partial z}\hat{y} - \frac{\partial H_x}{\partial y}\hat{z}=-j\beta H_x(y) e^{j(\omega t-\beta z)} \hat{y} - \frac{\partial H_x}{\partial y}e^{j(\omega t - \beta z)}\hat{z} \qquad...(5)$$
 Plugging $(5)$ into $(4)$ results in the $E$-fields
 $$\vec E = \frac{1}{j\omega\epsilon}\nabla \times \vec H = e^{j(\omega t - \beta z)} \left[ -\frac{\beta}{\omega \epsilon}H_x(y)\hat{y} +\frac{j}{\omega \epsilon}\frac{\partial H_x}{\partial y}\hat{z} \right]$$
+The $E$-field 
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
