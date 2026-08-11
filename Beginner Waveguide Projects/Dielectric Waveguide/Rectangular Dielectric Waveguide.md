@@ -15,7 +15,8 @@ Plugging $(5)$ into $(4)$ results in the $E$-fields
 $$\vec E = \frac{1}{j\omega\epsilon}\nabla \times \vec H = e^{j(\omega t - \beta z)} \left[ -\frac{\beta}{\omega \epsilon}H_x(y)\hat{y} +\frac{j}{\omega \epsilon}\frac{\partial H_x}{\partial y}\hat{z} \right] \qquad...(6)$$
 The $E$-field can be described in a $y$ and $z$ component according to $(6)$
 $$E_y=-\frac{\beta}{\omega \epsilon}H_x(y)e^{j(\omega t - \beta z)}$$
-$$E_z = $$
+$$E_z = \frac{j}{\omega \epsilon} \frac{\partial H_x}{\partial y}$$
+
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
