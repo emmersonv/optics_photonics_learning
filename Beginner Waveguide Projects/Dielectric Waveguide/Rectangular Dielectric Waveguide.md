@@ -18,7 +18,7 @@ $$E_y=-\frac{\beta}{\omega \epsilon}H_x(y)e^{j(\omega t - \beta z)}$$
 $$E_z = \frac{j}{\omega \epsilon} \frac{\partial H_x}{\partial y}$$
 So we the solutions for $H_x$ must be found. Solving $(3)$ will yield the following solution for the core region:
 $$H_x(y) = A\cos\left(k_yy\right)+B\sin\left(k_yy\right)$$
-And for the cladding region: $$H_x(y) = Ce^$$
+And for the cladding region: $$H_x(y) = Ce^{-\alpha \left(y-d/2\right)}$$
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
