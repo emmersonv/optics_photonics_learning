@@ -19,7 +19,8 @@ $$E_z = \frac{j}{\omega \epsilon} \frac{\partial H_x}{\partial y} \qquad...(8)$$
 So we the solutions for $H_x$ must be found. Solving $(3)$ will yield the following solution for the core region:
 $$H_x(y) = A\cos\left(k_yy\right)+B\sin\left(k_yy\right)$$
 And for the cladding region: $$H_x(y) = Ce^{-\alpha y} + De^{\alpha y}$$
-Which to no surprise is the same form in as the planar TE profile. Converting these bad boys to E-field through $(7)$ and $(8)$:
+Which to no surprise is the same form in as the planar TE profile. Converting these bad boys to E-field through $(7)$ and $(8)$, starting with the $z$ component in the core:
+$$E_z=\frac{j}{}$$
 
 
 
