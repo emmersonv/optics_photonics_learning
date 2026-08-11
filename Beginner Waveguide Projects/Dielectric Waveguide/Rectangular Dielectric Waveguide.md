@@ -15,12 +15,12 @@ Plugging $(5)$ into $(4)$ results in the $E$-fields
 $$\vec E = \frac{1}{j\omega\epsilon}\nabla \times \vec H = e^{j(\omega t - \beta z)} \left[ -\frac{\beta}{\omega \epsilon}H_x(y)\hat{y} +\frac{j}{\omega \epsilon}\frac{\partial H_x}{\partial y}\hat{z} \right] \qquad...(6)$$
 The $E$-field can be described in a $y$ and $z$ component according to $(6)$
 $$E_y=-\frac{\beta}{\omega \epsilon}H_x(y)e^{j(\omega t - \beta z)} \qquad...(7)$$
-$$E_z = \frac{j}{\omega \epsilon} \frac{\partial H_x}{\partial y} \qquad...(8)$$
+$$E_z = \frac{j}{\omega \epsilon} \frac{\partial H_x}{\partial y}e^{j(\omega t - \beta z)} \qquad...(8)$$
 So we the solutions for $H_x$ must be found. Solving $(3)$ will yield the following solution for the core region:
 $$H_x(y) = A\cos\left(k_yy\right)+B\sin\left(k_yy\right)$$
 And for the cladding region: $$H_x(y) = Ce^{-\alpha y} + De^{\alpha y}$$
 Which to no surprise is the same form in as the planar TE profile. Converting these bad boys to E-field through $(7)$ and $(8)$, starting with the $z$ component in the core:
-$$E_z=\frac{j}{}$$
+$$E_z=\frac{j}{\omega \epsilon_{core}}$$
 
 
 
