@@ -22,7 +22,7 @@ And for the cladding region: $$H_x(y) = Ce^{-\alpha y} + De^{\alpha y}$$
 Which to no surprise is the same form in as the planar TE profile. Converting these bad boys to E-field through $(7)$ and $(8)$, starting with the $z$ component in the core:
 $$\frac{\partial H_x}{\partial y} = k_y\left[B \cos(k_yy) -A \sin(k_yy)\right]$$
 $$E_z=\frac{jk_y}{\omega \epsilon_{core}}\left[B\cos(k_yy) - A\sin(k_yy)\right]e^{j(\omega t - \beta z)}$$
-And the $z$ component in the cladding: $$\frac{\partial H_x}{\partial y} = -C\alpha e^{-\alpha y} + D\alpha $$
+And the $z$ component in the cladding: $$\frac{\partial H_x}{\partial y} = \alpha \left(-Ce^{-\alpha y} + De'\right) $$
 
 
 
