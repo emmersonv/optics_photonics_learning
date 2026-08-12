@@ -24,7 +24,7 @@ $$\frac{\partial H_x}{\partial y} = k_y\left[B \cos(k_yy) -A \sin(k_yy)\right]$$
 $$E_{core,z}=\frac{jk_y}{\omega \epsilon_{core}}\left[B\cos(k_yy) - A\sin(k_yy)\right]e^{j(\omega t - \beta z)}$$
 And the $z$ component in the cladding: $$\frac{\partial H_x}{\partial y} = \alpha \left(De^{\alpha y} -Ce^{-\alpha y}\right) $$
 $$E_{clad,z}=\frac{j}{\omega \epsilon_{clad}}\left[\alpha\left(De^{\alpha y} - Ce^{-\alpha y}\right)\right]e^{j(\omega t - \beta z)}$$
-When assuming an even mode the coefficients an be calcula
+When assuming an even mode the coefficients will result in $A = 0$ and $C = D$. 
 
 
 
