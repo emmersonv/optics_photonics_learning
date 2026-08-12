@@ -32,7 +32,7 @@ Ce^{\alpha y}, \quad y \le -\frac{d}{2}
 At the boundary the $E$-fields are continuous. So $E_{clad,z}(y=\frac{d}{2})=E_{core,z}(y=\frac{d}{2})$ $$\frac{\alpha}{\epsilon_{clad}}Ce^{-\alpha\frac{d}{2}}=\frac{k_y}{\epsilon_{core}}A\sin\left(k_y \frac{d}{2}\right) \qquad...(9)$$
 $-A\sin(k_y y)$ is the even mode because recall that the first derivative of $H_x$ was taken. The amplitudes can be eliminated by the boundary condition $H_{clad,x}(y=\frac{d}{2}) = H_{core,x}(y=\frac{d}{2})$. $$Ce^{-\alpha\frac{d}{2}}=A\cos\left(k_y\frac{d}{2}\right) \qquad...(10)$$
 Dividing $(9)$ by $(10)$ will result in $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(k_y\frac{d}{2}\right) \qquad...(11)$$ Or writing it in terms of the bounce angle $\theta$
-$$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
+$$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda} \frac{d}{2} \sin{\theta}\right) \qquad...(12)$$
 
 After repeating the same steps for the odd mode it will result in $$\frac{\alpha}{\epsilon_{clad}}=-\frac{k_y}{\epsilon_{core}}\cot\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
 $-\cot(\theta)$ can be written as $-\cot(\theta) = \tan\left(\theta - \frac{\pi}{2}\right)$ so the above equation can be written as $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta} - \frac{\pi}{2}\right) \qquad...(13)$$ The adjacent even/odd mode solutions differ by $\frac{\pi}{2}$ so the solutions can be written into one nice equation. $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin\theta - m\frac{\pi}{2}\right) \qquad ...(14)$$
