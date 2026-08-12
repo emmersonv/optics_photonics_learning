@@ -30,7 +30,7 @@ Ce^{-\alpha y}, {\quad y \ge \frac{d}{2}} \\
 Ce^{\alpha y}, \quad y \le -\frac{d}{2}
 \end{cases}$$
 At the boundary the $E$-fields are continuous. So $E_{clad,z}(y=\frac{d}{2})=E_{core,z}(y=\frac{d}{2})$ $$\frac{\alpha}{\epsilon_{clad}}Ce^{-\alpha\frac{d}{2}}=\frac{k_y}{\epsilon_{core}}A\sin(k_y \frac{d}{2})$$
-$-A\sin(k_y y)$ is the even mode because recall that the first derivative of $H_x$ was taken. The amplitudes can be eliminated by the boundary condition $H_{clad,x}(y=\frac{d}{2}) = H_{core,x}(y=\frac{d}{2})$. $$$$
+$-A\sin(k_y y)$ is the even mode because recall that the first derivative of $H_x$ was taken. The amplitudes can be eliminated by the boundary condition $H_{clad,x}(y=\frac{d}{2}) = H_{core,x}(y=\frac{d}{2})$. $$Ce^{-\alpha\frac{d}{2}}=A\cos(k_y\frac{d}{2})$$
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
 Solving this for the same width $d$ will yield $\sin\theta = 0.425$, $\beta = 9.91$, and $n_{eff} = 2.44$.
