@@ -27,7 +27,6 @@ $$E_{clad,z}=\frac{j}{\omega \epsilon_{clad}}\left[\alpha\left(De^{\alpha y} - C
 When assuming an even mode the coefficients will result in $A = 0$ and $C = D$. 
 
 
-
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
 Solving this for the same width $d$ will yield $\sin\theta = 0.425$, $\beta = 9.91$, and $n_{eff} = 2.44$.
 
