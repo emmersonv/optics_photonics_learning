@@ -34,7 +34,8 @@ $-A\sin(k_y y)$ is the even mode because recall that the first derivative of $H_
 Dividing $(9)$ by $(10)$ will result in $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(k_y\frac{d}{2}\right) \qquad...(11)$$ Or writing it in terms of the bounce angle $\theta$
 $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
 
-After repeating the same steps for the odd mode it will result in $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta} - \frac{\pi}{2}\right) \qquad...(12)$$
+After repeating the same steps for the odd mode it will result in $$\frac{\alpha}{\epsilon_{clad}}=-\frac{k_y}{\epsilon_{core}}\cot\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
+$-\cot(\theta)$ ca n
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
