@@ -35,7 +35,7 @@ Dividing $(9)$ by $(10)$ will result in $$\frac{\alpha}{\epsilon_{clad}}=\frac{k
 $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
 
 After repeating the same steps for the odd mode it will result in $$\frac{\alpha}{\epsilon_{clad}}=-\frac{k_y}{\epsilon_{core}}\cot\left(\frac{2\pi}{\lambda}\sin{\theta}\right) \qquad...(12)$$
-$-\cot(\theta)$ can be written as $-\cot(\theta) = \tan\left(\theta - \frac{\pi}{2}\right)$ so the above equation can be written as $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta} - \frac{\pi}{2}\right) \qquad...(12)$$ The adjacent even/odd mode solutions differ by $\frac{\pi}{2}$ 
+$-\cot(\theta)$ can be written as $-\cot(\theta) = \tan\left(\theta - \frac{\pi}{2}\right)$ so the above equation can be written as $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\frac{2\pi}{\lambda}\sin{\theta} - \frac{\pi}{2}\right) \qquad...(13)$$ The adjacent even/odd mode solutions differ by $\frac{\pi}{2}$ so the 
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
