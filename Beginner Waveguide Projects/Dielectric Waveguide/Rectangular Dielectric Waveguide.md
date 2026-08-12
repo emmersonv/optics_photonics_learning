@@ -26,9 +26,10 @@ And the $z$ component in the cladding: $$\frac{\partial H_x}{\partial y} = \alph
 $$E_{clad,z}=\frac{j}{\omega \epsilon_{clad}}\left[\alpha\left(De^{\alpha y} - Ce^{-\alpha y}\right)\right]e^{j(\omega t - \beta z)}$$
 When assuming an even mode the coefficients will result in $A = 0$ and $C = D$. In the cladding region the field must exponentially decay, so the field in the cladding will be 
 $$H_{clad,x}(y) \propto \begin{cases}
-e^{-\alpha y}, {\quad y \ge \frac{d}{2}} \\
-e^{\alpha y}, \quad y \le -\frac{d}{2}
+Ce^{-\alpha y}, {\quad y \ge \frac{d}{2}} \\
+Ce^{\alpha y}, \quad y \le -\frac{d}{2}
 \end{cases}$$
+At the boundary 
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
