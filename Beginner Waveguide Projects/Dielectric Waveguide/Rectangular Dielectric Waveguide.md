@@ -42,6 +42,6 @@ And just rearranging a little bit: $$\frac{\epsilon_{core}}{\epsilon_{clad}}\fra
 $\frac{\epsilon_{core}}{\epsilon_{clad}}$ can be written in terms of refractive index $\frac{\epsilon_{core}}{\epsilon_{clad}} = \frac{n_{core}^2}{n_{clad}^2}$ and $\alpha$ as $\alpha = \sqrt{\beta^2-k^2}$.
 
 This would ultimately lead to the solution $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(14)$$
-But the solution should be the exact same
+But shouldn't the solution be the exact same as the TE case? The $E_z$ field is tangential to the boundary after all... Maybe the permittivity was absorbed into the constant $C$ in 
 Solving this for the same width $d$ will yield $\sin\theta = 0.425$, $\beta = 9.91$, and $n_{eff} = 2.44$.
 
