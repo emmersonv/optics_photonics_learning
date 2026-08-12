@@ -38,7 +38,7 @@ After repeating the same steps for the odd mode it will result in $$\frac{\alpha
 $-\cot(\theta)$ can be written as $-\cot(\theta) = \tan\left(\theta - \frac{\pi}{2}\right)$ so the above equation can be written as $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\pi\frac{d}{\lambda}\sin{\theta} - \frac{\pi}{2}\right) \qquad...(13)$$ The adjacent even/odd mode solutions differ by $\frac{\pi}{2}$ so the solutions can be written into one nice equation. $$\frac{\alpha}{\epsilon_{clad}}=\frac{k_y}{\epsilon_{core}}\tan\left(\pi \frac{d}{\lambda}\sin\theta - m\frac{\pi}{2}\right) \qquad$$
 where $m = 0, 1, 2, 3, ...$
 
-And just rearranging a little bit: $$\frac{\epsilon_{core}}{}$$
+And just rearranging a little bit: $$\frac{\epsilon_{core}}{\epsilon_{clad}}\frac{\alpha}{k_y}=\tan\left(\pi\frac{d}{\lambda}\sin\theta - m \frac{\pi}{2}\right)$$
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
 Solving this for the same width $d$ will yield $\sin\theta = 0.425$, $\beta = 9.91$, and $n_{eff} = 2.44$.
