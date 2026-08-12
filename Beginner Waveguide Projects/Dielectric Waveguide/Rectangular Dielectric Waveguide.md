@@ -29,7 +29,7 @@ $$H_{clad,x}(y) \propto \begin{cases}
 Ce^{-\alpha y}, {\quad y \ge \frac{d}{2}} \\
 Ce^{\alpha y}, \quad y \le -\frac{d}{2}
 \end{cases}$$
-At the boundary 
+At the boundary the $E$-fields are continuous. So $E_{clad,z}=E_{core,z}$
 
 
 The self consistency condition for the TM polarization is $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(1)$$
