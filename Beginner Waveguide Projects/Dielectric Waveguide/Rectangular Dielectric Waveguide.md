@@ -44,6 +44,8 @@ $\frac{\epsilon_{core}}{\epsilon_{clad}}$ can be written in terms of refractive 
 This would ultimately lead to the solution $$\tan{(\pi\frac{d}{\lambda}\sin{\theta}-m\frac{\pi}{2})=\frac{n_{SiO_2}^2}{n_{eff}^2}\sqrt{\frac{\sin^2{\overline{\theta}_c}}{\sin^2{\theta}}-1}} \qquad...(14)$$
 But shouldn't the solution be the exact same as the TE case? The $E_z$ field is tangential to the boundary after all... Maybe the permittivity was absorbed into the constant $C$ and $A$ in $(9)$?
 
+But anyways, the effective index for the 
+
 
 
 
