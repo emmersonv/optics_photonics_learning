@@ -46,7 +46,7 @@ But shouldn't the solution be the exact same as the TE case? The $E_z$ field is 
 
 But anyways, the effective index calculation turns out to be $n_{eff} = 1.62$, however Lumerical shows 1.46. I'm not sure what the discrepancy is coming from. Maybe no TM modes are supported?? Using a width of $0.4\mu m$ an effective index of 2.2 was calculated, but Lumerical is showing 2.07.
 
-I'll leave the analysis like this for now. 
+I'll leave the analysis like this for now. I don't want to continue until this discrepancy is fixed or explained.
 
 
 
