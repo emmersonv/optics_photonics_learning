@@ -1,0 +1,1 @@
+When light is channeled through a waveguide 
