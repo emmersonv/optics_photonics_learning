@@ -4,4 +4,4 @@ The amplitudes of the fields in the two waveguides are governed by the two coupl
 $$\frac{da_1}{dz}=-j\kappa_{21}e^{j\Delta\beta z}a_2(z)$$
 $$\frac{da_1}{dz}=-j\kappa_{12}e^{j\Delta\beta z}a_1(z)$$
 Where $\Delta\beta = \beta_1 - \beta_2$ and $$\kappa_{21} = \frac{1}{2}\left(n_2^2-n^2\right)\frac{k_o^2}{\beta_1}\int_a^{a+d}u_1(y)u_2(y)dy$$
-$$\kappa_{21} = \frac{1}{2}\left(n_1^2-n^2\right)\frac{k_o^2}{\beta_2}\int_a^{a+d}u_2(y)u_1(y)dy$$
+$$\kappa_{21} = \frac{1}{2}\left(n_1^2-n^2\right)\frac{k_o^2}{\beta_2}\int_{-a-d}^{-a}u_2(y)u_1(y)dy$$
