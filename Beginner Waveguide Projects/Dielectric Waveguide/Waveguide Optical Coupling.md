@@ -1,1 +1,1 @@
-When light is channeled through a waveguide the entire field isn't contained in the core since the boundary conditions of a dielectric does not force the tangential fields to be 0. As a result some of the fields will spill out into the cladding
+When light is channeled through a waveguide the entire field isn't contained in the core since the boundary conditions of a dielectric does not force the tangential fields to be 0. As a result some of the fields will spill out into the cladding where the 
