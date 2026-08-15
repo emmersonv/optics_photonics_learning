@@ -1,3 +1,4 @@
 When light is channeled through a waveguide the entire field isn't contained in the core since the boundary conditions of a dielectric does not force the tangential fields to be 0. As a result some of the fields will spill out into the cladding where the attenuation constant $\alpha$ describes the distance for which the field will drop by a factor of $e^{-1}$. If another waveguide is placed in this region then the two waveguides will couple.
 
 The amplitudes of the fields in the two waveguides are governed by the two coupled differential equations
+$$\frac{da_1}{dz}=-j\kappa_{21}e^{j\Delta\beta z}a_2(z)$$
