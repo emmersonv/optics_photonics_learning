@@ -7,3 +7,5 @@ Where $\Delta\beta = \beta_1 - \beta_2$ and $$\kappa_{21} = \frac{1}{2}\left(n_2
 $$\kappa_{21} = \frac{1}{2}\left(n_1^2-n^2\right)\frac{k_o^2}{\beta_2}\int_{-a-d}^{-a}u_2(y)u_1(y)dy$$
 $\kappa_{21}$ and $\kappa_{12}$ are the coupling coefficients between the two waveguides. *derive this another time, for now just use these results*
 The integral is a result from the projection of the mode of one waveguide to the other waveguide over the region that's being perturbed. $2a$ is the distance between cores and $d$ is the width of the waveguides. 
+
+So how does the attenuation constant $$
