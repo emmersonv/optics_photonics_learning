@@ -8,4 +8,4 @@ $$\kappa_{21} = \frac{1}{2}\left(n_1^2-n^2\right)\frac{k_o^2}{\beta_2}\int_{-a-d
 $\kappa_{21}$ and $\kappa_{12}$ are the coupling coefficients between the two waveguides. *derive this another time, for now just use these results*
 The integral is a result from the projection of the mode of one waveguide to the other waveguide over the region that's being perturbed. $2a$ is the distance between cores and $d$ is the width of the waveguides. 
 
-So how does the attenuation constant $$
+So how does the attenuation constant $\alpha$ effect these coupling coefficients? It would describe how the field profile of either $u_1(y)$ or $u_2(y)$. 
