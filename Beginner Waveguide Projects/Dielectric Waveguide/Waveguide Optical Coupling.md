@@ -14,4 +14,6 @@ The solution of this differential equation will yield the optical powers in wave
 $$P_2(z)=P_1(0)\frac{|\kappa_{21}|^2}{\gamma^2}\sin^2(\gamma z)$$
 $$\gamma = \pm\sqrt{\left(\frac{\Delta \beta}{2}\right)^2 + \kappa^2}$$
 $$\kappa = \sqrt{\kappa_{21}\kappa_{12}}$$
-If the waveguides are identical then the 
+If the waveguides are identical then the power equations simplify very nicely:
+$$P_1(z)=P_1(0)\cos^2(\kappa z)$$
+$$P_2(z)=P_1(0)\sin^2(\kappa z)$$
