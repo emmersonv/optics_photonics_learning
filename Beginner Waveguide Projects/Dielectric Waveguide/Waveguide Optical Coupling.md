@@ -10,5 +10,6 @@ The integral is a result from the projection of the mode of one waveguide to the
 
 So how does the attenuation constant $\alpha$ effect these coupling coefficients? It would the field profile of either $u_1(y)$ or $u_2(y)$ in the other waveguide.
 
-The solution of this differential equation will yield the optical power $$P_1(z)=P_1(0)\left[\cos^2(\gamma z) + \left(\frac{\Delta \beta}{2\gamma}\right)^2 \sin^2(\gamma z)\right]$$
-$$P_2(z)=P_1(0)\frac{|\kappa_|}{}$$
+The solution of this differential equation will yield the optical powers in waveguides 1 and 2:$$P_1(z)=P_1(0)\left[\cos^2(\gamma z) + \left(\frac{\Delta \beta}{2\gamma}\right)^2 \sin^2(\gamma z)\right]$$
+$$P_2(z)=P_1(0)\frac{|\kappa_{21}|^2}{\gamma^2}\sin^2(\gamma z)$$
+$$\gamma = \pm$$
