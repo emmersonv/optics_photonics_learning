@@ -12,4 +12,5 @@ So how does the attenuation constant $\alpha$ effect these coupling coefficients
 
 The solution of this differential equation will yield the optical powers in waveguides 1 and 2:$$P_1(z)=P_1(0)\left[\cos^2(\gamma z) + \left(\frac{\Delta \beta}{2\gamma}\right)^2 \sin^2(\gamma z)\right]$$
 $$P_2(z)=P_1(0)\frac{|\kappa_{21}|^2}{\gamma^2}\sin^2(\gamma z)$$
-$$\gamma = \pm$$
+$$\gamma = \pm\sqrt{\left(\frac{\Delta \beta}{2}\right)^2 + \kappa^2}$$
+$$\kappa = \sqrt{\kappa_{21}\k}$$
