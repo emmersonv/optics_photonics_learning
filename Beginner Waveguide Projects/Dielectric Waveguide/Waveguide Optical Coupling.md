@@ -9,3 +9,5 @@ $\kappa_{21}$ and $\kappa_{12}$ are the coupling coefficients between the two wa
 The integral is a result from the projection of the mode of one waveguide to the other waveguide over the region that's being perturbed. $2a$ is the distance between cores and $d$ is the width of the waveguides. 
 
 So how does the attenuation constant $\alpha$ effect these coupling coefficients? It would the field profile of either $u_1(y)$ or $u_2(y)$ in the other waveguide.
+
+The solution of this differential equation 
