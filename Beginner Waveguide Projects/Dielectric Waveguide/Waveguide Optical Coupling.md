@@ -19,4 +19,4 @@ $$P_1(z)=P_1(0)\cos^2(\kappa z) \qquad...(1)$$
 $$P_2(z)=P_1(0)\sin^2(\kappa z) \qquad...(2)$$
 Here is the plot of $(1)$ and $(2)$ when $P_1(0)= 1$ and $\kappa = 1$:
 ![[Pasted image 20260817191352.png]]
-The fields will slosh back and forth between the two waveguides, enabling switching for 
+The fields will slosh back and forth between the two waveguides. Every 
