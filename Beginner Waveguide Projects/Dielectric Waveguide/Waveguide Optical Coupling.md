@@ -21,4 +21,4 @@ Here is the plot of $(1)$ and $(2)$ when $P_1(0)= 1$ and $\kappa = 1$:
 ![[Pasted image 20260817191352.png]]
 The fields will slosh back and forth between the two waveguides. Every $\frac{\pi}{2\kappa}$ the fields will switch from one waveguide to another and every $\frac{\pi}{4\kappa}$ the fields will have an even 50/50 split between waveguides. The higher the coupling between the waveguides the shorter the switching distance will be. At first it sounds like a good idea to maximize the coupling coefficient to make a compact coupler, but the transfer distance will be super sensitive to manufacturing variation causing unpredictable behavior. 
 
-The problem at hand is how can the coupling coeffi
+The problem at hand is how can the coupling coefficient $\kappa$ be controlled? 
