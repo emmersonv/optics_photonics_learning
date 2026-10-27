@@ -8,3 +8,9 @@ set("property",value);
 This will set the properties of a currently selected object, including pull-downs and check boxes. It cannot be used to set the value of a selected object in a group.<br><br>Value can be a number or string. This function does not return any data.
 ```
 
+**Commands**
+Simulations can be ran through commands
+```
+findmodes
+```
+
