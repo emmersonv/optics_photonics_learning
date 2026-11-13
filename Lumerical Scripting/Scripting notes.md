@@ -3,6 +3,10 @@ Scripts are super useful, they can be used to automate geometry construction or 
 **Creating geometry**
 [addrect](https://optics.ansys.com/hc/en-us/articles/360034404214-addrect-Script-command)
 **Editing geometry: set**
+**Creating simulation region**
+addfde
+**Editing simulation region: set**
+
 
 
 
